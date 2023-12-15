@@ -1,15 +1,15 @@
 # CS466-Final-Project
 
-Dependencies:
-python.random
+Dependencies:<br> 
+python.random<br> 
 
-NeedlemanWunsch(v, w, sigma, rho):
-v, w: strings representing DNA sequences
-sigma: int
-rho: int, cost of consecutive gaps
-returns two aligned strings
+NeedlemanWunsch(v, w, sigma, rho):<br> 
+v, w: strings representing DNA sequences<br> 
+sigma: int<br> 
+rho: int, cost of consecutive gaps<br> 
+returns two aligned strings<br> 
 
-test_affine(n,l):
-n: int, number of randomly generated tests
-l: int, length of generated sequences
-prints number of consecutive gaps for rho = 0 and rho = 10
+test_affine(n,l):<br> 
+n: int, number of randomly generated tests<br> 
+l: int, length of generated sequences<br> 
+prints number of consecutive gaps for rho = 0 and rho = 10<br> 
